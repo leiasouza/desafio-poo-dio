@@ -1,3 +1,6 @@
+Este foi um dsafio do Bootcamp Santander Code Girls, no qual colocamos em prática todo o aprendizado do mesmo.
+Aqui abaixo é a descrição do desafio de POO feito pela Professora Camila Cavalcante, excelente didática.
+
 # Desafio: Aprenda na Prática Programação Orientada a Objetos
 
 Sejam bem-vindos ao desafio: **APRENDENDO NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS.**
